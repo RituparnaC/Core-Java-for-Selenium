@@ -6,3 +6,11 @@ https://www.hackerrank.com/
 
 Integrate Eclipse with Github. Please try this one.
 https://youtu.be/LPT7v69guVY
+
+Core Java Complete Reference:
+http://iiti.ac.in/people/~tanimad/JavaTheCompleteReference.pdf
+
+
+Selenium Interview Questions:
+http://www.learnunwired.com/pdf/Selenium-Interview-Question.pdf
+
