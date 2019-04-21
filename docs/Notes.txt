@@ -11,7 +11,12 @@ This is a multiple line comment
 */
 
 
-Data Types:
+Data Type
+
+short, byte, int, long, float, double, boolean, char
+
+
+
 
 int/long --> Integer variables
 int numberOfLegs = 4;
@@ -24,9 +29,12 @@ char firstLetterOfName = 'R';
 
 double/float --> for decimal variables
 
-byte -->
+byte --> range is -128 to 127
 
-byte number = 127;
+byte numberOfVotes = 127;
+numberOfVotes = numberOfVotes + 4;
+
+
 
 
 
