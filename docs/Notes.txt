@@ -1,0 +1,36 @@
+Core Java Notes:
+
+Comon Syntax:
+
+Comment:
+// This is a Single Line Comment
+
+/*
+
+This is a multiple line comment
+*/
+
+
+Data Types:
+
+int/long --> Integer variables
+int numberOfLegs = 4;
+
+char --> Character variables
+char firstLetterOfName = 'R';
+
+// firstLetterOfName ---> it's an example of the conventional camelcase structure. In Java it's preferred to use camelcase structure
+//to write Class, Field/Variables, Method names in this structure.
+
+double/float --> for decimal variables
+
+byte -->
+
+byte number = 127;
+
+
+
+boolean
+
+
+
