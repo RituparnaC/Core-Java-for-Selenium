@@ -15,6 +15,8 @@ Data Type
 
 short, byte, int, long, float, double, boolean, char
 
+most useful ones: int, char, double, long, boolean
+
 
 
 
@@ -34,11 +36,9 @@ byte --> range is -128 to 127
 byte numberOfVotes = 127;
 numberOfVotes = numberOfVotes + 4;
 
-
-
-
-
-boolean
+boolean --> true/false
+boolean isACOn = false;
+isACOn = true;
 
 
 
