@@ -10,6 +10,7 @@ Comment:
 This is a multiple line comment
 */
 
+The POI (point-of-entry) of a class is the main method
 
 Data Type
 
