@@ -4,4 +4,5 @@ https://guides.github.com/activities/hello-world/
 Please open an account here and try to explore core java programs:
 https://www.hackerrank.com/
 
-
+Integrate Eclipse with Github. Please try this one.
+https://youtu.be/LPT7v69guVY
