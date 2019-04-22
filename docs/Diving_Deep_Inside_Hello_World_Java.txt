@@ -1,0 +1,47 @@
+Sample "Hello World!" code in Java looks like below code snippet:
+--------------------------------------------------------------------------------------------
+
+/**
+ * JavaDoc comments look like this.
+ */
+class HelloWorldApplication {
+
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+        // This is a single line comment
+        /*
+          This is a multi-line comment
+        */
+    }
+}
+
+Three Types of Comment in Java:
+---------------------------------------------------------------------------------------------
+
+    1.  
+    // Single Line Comment
+    2.
+    /* 
+      Multiline comment
+    */
+    3.
+   /**
+     * JavaDoc comments
+     */
+    
+--------------------------------------------------------------------------------------------
+Note# 
+
+In the Java programming language, every application must contain a main method.
+
+The modifiers public and static can be written in either order (public static or static public),
+but the convention is to use public static as shown above.You can name the argument anything you want,
+but most programmers choose "args" or "argv".
+
+The main method is similar to the main function in C and C++; it's the entry point for your application 
+and will subsequently invoke all the other methods required by your program.
+
+The main method accepts a single argument: an array of elements of type String.
+
+This array is the mechanism through which the runtime system passes information to your application.
+--------------------------------------------------------------------------------------------
