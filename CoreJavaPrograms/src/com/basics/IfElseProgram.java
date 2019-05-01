@@ -1,6 +1,6 @@
 package com.basics;
 
-public class IfElsePrograms {
+public class IfElseProgram {
 
 	public static void main(String[] args) {
 		/*if(false){
