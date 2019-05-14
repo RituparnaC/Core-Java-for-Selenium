@@ -1,0 +1,5 @@
+1. Explore import statement by creating a new package and then try to import any class from that package.
+2. Revision VowelConsonentChecker.java multiple times.
+3. Javatpoint.com --> try to complete ASAP --> From 1st to Java Innerclass, Java I/O, Java Collection --> Let me know after first completion
+4. CV making
+5. 
